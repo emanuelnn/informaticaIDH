@@ -1,0 +1,48 @@
+git clone https://github.com/emanuelnn/informaticaIDH
+  471  cd informativaIDH
+  472  ls
+  473  cd informaticaIDH
+  474  cd README2.md
+  475  cat > teste.txt
+  476  git clone https://github.com/MarcusRibeiro1/Marcus_Ribeiro.git 
+  477  git add .
+  478  git commit -m "Testando Commit"
+  479  mkdir Emanuel_Nascimento
+  480  git add .
+  481  git status
+  482  git commit -m "commitando de novo"
+  483  git push
+  484  git push
+  485  mkdir Emanuel_Nogueira
+  486  git add .
+  487  git commit -m "Commitando Emanuel"
+  488  git push
+  489  git push
+  490  git push -u 
+  491  git add .
+  492  git commit 
+  493  git commit -u master
+  494  git commit -m "commitando"
+  495  git status
+  496  git push -u main
+  497  git add Emanuel_Nogueira
+  498  git status
+  499  cat > Emanuel_Nogueira
+  500  cat > Emanuel.txt
+  501  git add .
+  502  git status
+  503  git commit -m "novo"
+  504  git push
+  505  git checkout -b Emanuel_Nogueira
+  506  git add .
+  507  git commit 
+  508  git push -u Emanuel_Nogueira
+  509  git checkout Emanuel_Nogueira
+  510  git push
+  511  git push --set-upstream origin Emanuel_Nogueira
+  512  git push --set-upstream origin Emanuel_Nogueira
+  513  git my
+  514  git mv
+  515  git history
+  516  history
+
